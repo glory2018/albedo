@@ -15,27 +15,27 @@
 
 <table>
     <tr>
-        <td><img src="https://raw.githubusercontent.com/somowhere/albedo-source/master/albedo/1.png"/></td>
-        <td><img src="https://raw.githubusercontent.com/somowhere/albedo-source/master/albedo/2.png"/></td>
+        <td><img src="https://github.com/glory2018/albedo/blob/master/picture/1.png"/></td>
+        <td><img src="https://github.com/glory2018/albedo/blob/master/picture/2.png"/></td>
     </tr>
     <tr>
-        <td><img src="https://raw.githubusercontent.com/somowhere/albedo-source/master/albedo/3.png"/></td>
-        <td><img src="https://raw.githubusercontent.com/somowhere/albedo-source/master/albedo/4.png"/></td>
+        <td><img src="https://github.com/glory2018/albedo/blob/master/picture/3.png"/></td>
+        <td><img src="https://github.com/glory2018/albedo/blob/master/picture/4.png"/></td>
     </tr>
     <tr>
-        <td><img src="https://raw.githubusercontent.com/somowhere/albedo-source/master/albedo/5.png"/></td>
-        <td><img src="https://raw.githubusercontent.com/somowhere/albedo-source/master/albedo/6.png"/></td>
+        <td><img src="https://github.com/glory2018/albedo/blob/master/picture/5.png"/></td>
+        <td><img src="https://github.com/glory2018/albedo/blob/master/picture/6.png"/></td>
     </tr>
     <tr>
-        <td><img src="https://raw.githubusercontent.com/somowhere/albedo-source/master/albedo/7.png"/></td>
-        <td><img src="https://raw.githubusercontent.com/somowhere/albedo-source/master/albedo/8.png"/></td>
+        <td><img src="https://github.com/glory2018/albedo/blob/master/picture/7.png"/></td>
+        <td><img src="https://github.com/glory2018/albedo/blob/master/picture/8.png"/></td>
     </tr>
     <tr>
-        <td><img src="https://raw.githubusercontent.com/somowhere/albedo-source/master/albedo/9.png"/></td>
-        <td><img src="https://raw.githubusercontent.com/somowhere/albedo-source/master/albedo/10.png"/></td>
+        <td><img src="https://github.com/glory2018/albedo/blob/master/picture/9.png"/></td>
+        <td><img src="https://github.com/glory2018/albedo/blob/master/picture/10.png"/></td>
     </tr>
     <tr>
-        <td><img src="https://raw.githubusercontent.com/somowhere/albedo-source/master/albedo/11.png"/></td>
+        <td><img src="https://github.com/glory2018/albedo/blob/master/picture/11.png"/></td>
         <td></td>
     </tr>
 </table>
@@ -105,8 +105,8 @@ albedo
 
 <table>
     <tr>
-        <td><img src="https://raw.githubusercontent.com/somowhere/albedo-source/master/albedo/alipay.png"/></td>
-        <td><img src="https://raw.githubusercontent.com/somowhere/albedo-source/master/albedo/wxpay.png"/></td>
+        <td><img src="https://github.com/glory2018/albedo/blob/master/picture/alipay.png"/></td>
+        <td><img src="https://github.com/glory2018/albedo/blob/master/picture/wxpay.png"/></td>
     </tr>
 </table>
  
